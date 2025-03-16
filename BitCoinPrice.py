@@ -17,5 +17,5 @@ while (True):
 
     if __name__ == "__main__":
         get_bitcoin_price()
-    sleep(2)
+    sleep(1)
 
