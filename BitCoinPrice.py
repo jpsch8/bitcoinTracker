@@ -1,6 +1,7 @@
 import requests
 import time
 from time import sleep
+import colorama
 
 while (True):
     def get_bitcoin_price():
@@ -17,5 +18,5 @@ while (True):
 
     if __name__ == "__main__":
         get_bitcoin_price()
-    sleep(1)
+    sleep(2)
 
